@@ -1,2 +1,5 @@
 test push
 add push...
+
+update
+test using credential helper to remember github username & password while pushing with https
